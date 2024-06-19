@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "template2024:lib"
+
+    - path: "./test"
+      component: "template2024:test:template2024-test"
